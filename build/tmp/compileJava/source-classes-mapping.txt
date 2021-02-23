@@ -4,3 +4,15 @@ com/springboot/test/main/web/dto/HelloResponseDto.java
  com.springboot.test.main.web.dto.HelloResponseDto
 com/springboot/test/main/web/HelloController.java
  com.springboot.test.main.web.HelloController
+com/springboot/test/main/web/domain/posts/PostsRepository.java
+ com.springboot.test.main.web.domain.posts.PostsRepository
+com/springboot/test/main/web/domain/posts/Posts.java
+ com.springboot.test.main.web.domain.posts.Posts
+ com.springboot.test.main.web.domain.posts.Posts$PostsBuilder
+com/springboot/test/main/web/dto/PostsSaveRequestDto.java
+ com.springboot.test.main.web.dto.PostsSaveRequestDto
+ com.springboot.test.main.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/springboot/test/main/service/posts/PostsService.java
+ com.springboot.test.main.service.posts.PostsService
+com/springboot/test/main/web/PostsApiController.java
+ com.springboot.test.main.web.PostsApiController
